@@ -1,0 +1,96 @@
+.modal-title {
+  font-size: 30px;
+  color: #565555;
+}
+
+#newcategory {
+  margin-left: 130px;
+}
+
+#editcategory {
+  margin-left: 110px;
+}
+
+.modal-header {
+  border: none;
+}
+
+.modal-body {
+  margin: 0;
+}
+
+.modal-footer {
+  justify-content: center;
+  border: none;
+  padding-bottom: 60px;
+}
+
+.modal-footer button {
+  width: 180px;
+  height: 45px;
+  font-size: 18px;
+  border-radius: 30px;
+  margin: 0 20px;
+}
+
+button.btn.btn-danger {
+  float: right !important;
+  color: #fff !important;
+  background-color: #83055d !important;
+  border-color: #83055d !important;
+  border-radius: 25px !important;
+}
+
+button.btn.btn-danger:hover {
+  color: #fff;
+  background-color: #6e034e !important;
+  border-color: #6e034e !important;
+}
+
+.modal-form {
+  margin: 0 auto;
+  width: 100%;
+  margin-left: 30px;
+}
+
+input#inputName.form-control {
+  font-size: 18px;
+  color: #565555;
+  border-radius: 30px;
+}
+
+label.col-sm-2.col-form-label {
+  color: #565555;
+  font-size: 18px;
+}
+
+label.col-sm-3.col-form-label {
+  color: #565555;
+  font-size: 18px;
+}
+
+label.col-sm-4.col-form-label {
+  color: #565555;
+  font-size: 18px;
+}
+
+input#inputDate.form-control {
+  font-size: 18px;
+  color: #565555;
+  border-radius: 30px;
+}
+
+input#inputColor.form-control {
+  font-size: 18px;
+  color: #565555;
+  border-radius: 30px;
+}
+
+input#color {
+  width: 120px;
+  height: 45px;
+  border-radius: 10px;
+  cursor: pointer;
+  border: none;
+  background-color: #fff;
+}

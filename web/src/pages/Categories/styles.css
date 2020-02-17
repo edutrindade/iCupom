@@ -1,0 +1,38 @@
+#page-categories {
+  background-image: url('../../assets/Background.png');
+  margin: 0 auto;
+  display: flex;
+  width: 100%;
+  height: 100%;
+}
+
+.btn-new-category {
+  width: 100%;
+  text-align: right;
+  margin-bottom: -10px;
+}
+
+#new-category {
+  border-radius: 10px;
+}
+
+#card-margin {
+  margin-bottom: 15px;
+}
+
+#category-title {
+  text-align: center;
+  font-size: 14px;
+}
+
+.category-photo {
+  margin: auto;
+  text-align: center;
+}
+
+.category-photo img{
+  position: relative;
+  display:inline-block;
+  width: 80px;
+  height: 80px;
+}
